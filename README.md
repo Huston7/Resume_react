@@ -1,4 +1,4 @@
-# Resume Viewer — Node.js + React
+# Resume — Node.js + React
 
 Цей проєкт складається з:
 
