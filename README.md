@@ -9,7 +9,7 @@
 
 ### 1. Клонування репозиторію
 ```bash
-git clone <URL> resume-viewer
+git clone https://github.com/Huston7/Resume_react.git
 cd resume-viewer
 ```
 
